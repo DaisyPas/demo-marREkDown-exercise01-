@@ -24,4 +24,6 @@ This is an example of showing text with an *asterisk* that will not be italized 
 >This is going to be displayed as a quote with the background and line on the left side.
 <!--Creating link using markdown-->
 **NOTE** The text that will go with the links should be in brackets and the links in parenthesis.
-[https://github.com/DaisyPas/demo-marREkDown-exercise01-/edit/main/README.md]
+[ReadmeMarkDown](https://github.com/DaisyPas/demo-marREkDown-exercise01-/edit/main/README.md)
+<!--If we want to add a title tooltip add a space inside a parenthesis with quotes to display a baloontip.
+[ReadmeMarkDown](https://github.com/DaisyPas/demo-marREkDown-exercise01-/edit/main/README.md "Maganda Ako")
