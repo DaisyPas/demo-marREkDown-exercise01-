@@ -15,3 +15,5 @@ This will look like a bold style text using underscore __strong__
 <!--Horizontal Rule-->
 Using triple hyphens will be able to create horizontal rule.
 ---
+<!---->
+This is an example of showing text with an *asterisk* that will not be italized \*asterisk*
