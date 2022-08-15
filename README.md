@@ -9,11 +9,16 @@ Markdown comment
 <!-- Italics-->
 _This paragraph is going to be in italics using underscore_
 *This paragraph is going to be in italics using stars*
+---
 <!-- Strong -->
 This will look like a bold style text. **strong**
 This will look like a bold style text using underscore __strong__
+---
 <!--Horizontal Rule-->
 Using triple hyphens will be able to create horizontal rule.
 ---
-<!---->
+<!--escape character-->
 This is an example of showing text with an *asterisk* that will not be italized \*asterisk*
+---
+<!--blockquote-->
+>This is going to be displayed as a quote with the background and line on the left side.
