@@ -29,4 +29,5 @@ This is an example of showing text with an *asterisk* that will not be italized 
 ---
 [ReadmeMarkDown](https://github.com/DaisyPas/demo-marREkDown-exercise01-/edit/main/README.md "Maganda Ako")
 ---
-<!---->
+<!--images-->
+![cat image](![image](https://user-images.githubusercontent.com/110212044/184640337-6f4c23d6-5134-4749-87f1-58758af5e83f.png)
