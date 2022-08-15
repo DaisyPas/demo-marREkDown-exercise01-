@@ -9,3 +9,6 @@ Markdown comment
 <!-- Italics-->
 _This paragraph is going to be in italics using underscore_
 *This paragraph is going to be in italics using stars*
+<!-- Strong -->
+This will look like a bold style text. **strong**
+This will look like a bold style text using underscore __strong__
