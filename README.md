@@ -12,3 +12,6 @@ _This paragraph is going to be in italics using underscore_
 <!-- Strong -->
 This will look like a bold style text. **strong**
 This will look like a bold style text using underscore __strong__
+<!--Horizontal Rule-->
+Using triple hyphens will be able to create horizontal rule.
+---
